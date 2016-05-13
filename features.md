@@ -33,10 +33,10 @@ rilevate automaticamente, quindi ci potrebbe essere un menù simile a questo:
 
 `
 Cosa dovrei fare?
-> Adesso (situazione autorilevata)
-> Vicino a te (situazioni autorilevate)
-> Quando? (specifica manualmente)
----> (sottomenù con varie situazioni)
+> Adesso (situazione autorilevata)  
+> Vicino a te (situazioni autorilevate)  
+> Quando? (specifica manualmente)  
+---> (sottomenù con varie situazioni)  
 `
 
 Gli interessi sono invece tipo "programmazione", "film", "libri" ecc. Quando si ha
@@ -47,9 +47,8 @@ cosa si potrebbe fare.
 ## Priorità
 
 Questo sistema di raggruppamento da solo non è sufficiente: ho un po' di tempo per 
-programmare, con cosa inizio? Con qualcosa a caso?  
-No, inizio risolvendo i bug gravissimi nel software x, poi posso implementare nuove 
-funzioni nel software y.
+programmare, con cosa inizio? Con qualcosa a caso?  No, inizio risolvendo i bug 
+gravissimi nel software x, poi posso implementare nuove funzioni nel software y.
 
 Le cose da fare oltre che raggruppate devono anche essere ordinate per importanza. 
 Ci sono le cose da fare il prima possibile, le cose importanti, le cose da 
