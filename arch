@@ -1,0 +1,18 @@
+# Architettura di GNUDO
+
+## Componenti
+
+ * Il database è dove sono conservati fisicamente i dati
+ * Il dbms permette di lavorare sui dati senza conoscere la struttura fisica
+   del db
+ * Il dbms è utilizzato dal backend di GNUDO, un ulteriore livello di astrazione 
+   per i dati. In questo modo i front-end non devono conoscere il dbms, che 
+   potrà essere cambiato facilmente
+ * I front-end permettono all'utente di utilizzare la libreria gnudo-backend
+
+
+
+db(json)	<---> dbms <---> |               | <---> GNUDO-frontend-1
+db(sqlite)	<---> dbms <---> | GNUDO-backend | <---> GNUDO-frontend-2
+db(mysql)	<---> dbms <---> |               | <---> GNUDO-frontend-3
+...
