@@ -31,13 +31,13 @@ Una situazione può essere "sono in questo posto", oppure "sono con questa perso
 o ancora "sto facendo questa cosa". Le situazioni potrebbero essere anche (in parte) 
 rilevate automaticamente, quindi ci potrebbe essere un menù simile a questo:
 
-`
+```
 Cosa dovrei fare?
 > Adesso (situazione autorilevata)  
 > Vicino a te (situazioni autorilevate)  
 > Quando? (specifica manualmente)  
 ---> (sottomenù con varie situazioni)  
-`
+```
 
 Gli interessi sono invece tipo "programmazione", "film", "libri" ecc. Quando si ha
 voglia di fare qualcosa, basta selezionare l'interesse corrispondente per vedere 
