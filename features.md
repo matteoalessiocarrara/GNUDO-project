@@ -14,8 +14,10 @@ nient'altro.
 ## Sotto obbiettivi
 
 Alcuni obbiettivi possono essere composti da obbiettivi più piccoli. Questi sono 
-chiamati dipendenze. Un sotto obbiettivo può essere condiviso fra due obbiettivi 
-(cioè la modifica sarà collegata), oppure può essere semplicemente copiato.
+chiamati dipendenze, subtasks o prerequisiti. Anche i sotto-obbiettivi possono 
+essere composti da obbiettivi più piccoli, ecc. Un sotto obbiettivo può essere 
+condiviso fra due obbiettivi (cioè la modifica sarà collegata), oppure può essere 
+semplicemente copiato.
 
 
 ## Categorie
@@ -32,7 +34,7 @@ Per es:
  
 
 Gli obbiettivi quindi secondo me dovrebero essere raggruppati per situazioni e 
-interessi.
+azioni.
 
 Una situazione può essere "sono in questo posto", oppure "sono con questa persona",
 o ancora "sto facendo questa cosa". Le situazioni potrebbero essere anche (in parte) 
@@ -46,9 +48,9 @@ Cosa dovrei fare?
 ---> (sottomenù con varie situazioni)  
 ```
 
-Gli interessi sono invece tipo "programmazione", "film", "libri" ecc. Quando si ha
-voglia di fare qualcosa, basta selezionare l'interesse corrispondente per vedere 
-cosa si potrebbe fare.
+Le azioni sono invece tipo "programmazione", "vedere film", "leggere libri" ecc. 
+Quando si ha voglia di fare qualcosa, basta selezionare l'azione corrispondente 
+per vedere cosa si potrebbe fare.
 
 
 ## Priorità
