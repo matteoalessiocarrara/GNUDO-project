@@ -3,6 +3,8 @@
 
 ## Back-end
 
+ - Ricerca avanzata e salvataggio come filtri 
+ - Implementare API per rilevazione della "situazione" in cui è l'utente
  - API per scrivere plugin di sincronizzazione
  - Colori per le categorie e livelli di priorità
  - Riconoscimento di scadenze categorie dal testo immesso (es: __comprare__ stufa 
@@ -10,9 +12,11 @@
  - Statistiche sugli obbiettivi
 
 
+
 ## Front-end
 
-
+ - Aggiungere dipendenza a più obbiettivi contemporaneamente (es: "aggiustare computer" 
+   come dipendenza di tutti gli obbiettivi in programmazione)
  - Swipe per completare
  - Colori per le categorie e livelli di priorità
  - Scegliere quale categoria mostrare all'avvio 

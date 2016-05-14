@@ -11,6 +11,13 @@ L'oggetto principale. Il software di base è una lista di obbiettivi, senza
 nient'altro.
 
 
+## Sotto obbiettivi
+
+Alcuni obbiettivi possono essere composti da obbiettivi più piccoli. Questi sono 
+chiamati dipendenze. Un sotto obbiettivo può essere condiviso fra due obbiettivi 
+(cioè la modifica sarà collegata), oppure può essere semplicemente copiato.
+
+
 ## Categorie
 
 Quando leggo la lista delle cose da fare, lo faccio perché mi chiedo:

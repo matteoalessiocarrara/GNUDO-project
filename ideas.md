@@ -3,9 +3,11 @@
 
 ## Back-end
 
+ - Supporto più dbms?
  - Supporto a data di scadenza?
  - Strumento per backup integrato? In directory personalizzabile (attenzione: 
    possibile problema di sicurezza, sarebbe leggibile per tutti gli altri sw)
+ - Crittografia dei dati per proteggerli da accessi non autorizzati?
 
 ## Front-end
 
