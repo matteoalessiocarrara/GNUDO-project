@@ -48,7 +48,7 @@ Cosa dovrei fare?
 ---> (sottomenù con varie situazioni)  
 ```
 
-Le azioni sono invece tipo "programmazione", "vedere film", "leggere libri" ecc. 
+Le azioni sono invece tipo "programmare", "vedere film", "leggere libri" ecc. 
 Quando si ha voglia di fare qualcosa, basta selezionare l'azione corrispondente 
 per vedere cosa si potrebbe fare.
 
