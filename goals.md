@@ -4,4 +4,5 @@
  * Compatibile con tutto (il back-end)
  * Modulare
  * Veloce
- * Seguire la filosofia unix
+ * Seguire la filosofia Unix
+ * Seguire la filosofia del software libero
