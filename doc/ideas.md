@@ -1,7 +1,7 @@
 # Idee sul funzionamento (da finire)
 
 
-## Obbiettivi
+## Obbiettivi (OK)
 
 L'oggetto principale. Il software di base è una lista di obbiettivi, senza 
 nient'altro.
@@ -35,7 +35,7 @@ nella ricerca specificare meglio la situazione è *opzionale*. mostrare tutte le
 che contengono la situazione
 
 
-## Priorità
+## Priorità (OK)
 
 Sono in questa situazione, cosa devo fare per prima?
 

@@ -1,13 +1,6 @@
 # Repository del progetto GNUDO
 
 
-## Database
-
-
- * [Definizione del contenuto](https://github.com/matteoalessiocarrara/GNUDO-database-architecture-abstract)
- * [Definizione dell'architettura per sqlite](https://github.com/matteoalessiocarrara/GNUDO-database-architecture-sqlite)
- 
-
 ## Implementazione di GNUDO in c++
 
 
